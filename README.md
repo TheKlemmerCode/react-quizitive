@@ -19,3 +19,8 @@ Install the dependencies:
 
 Run the app:  
   * ```$ npm run dev```  
+
+
+## Resources  
+
+[SVG Creation](https://www.svgrepo.com/svg/509677/question1)
