@@ -1,13 +1,22 @@
 import { useState } from 'react'
-import './App.css'
+import './assets/css/App.css'
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
-    <>
-      <p>HELLO WORLD!</p>
-    </>
+    <div className='quizzical-app'>
+      <section className='quizzical-initial'>
+        <h2 className='initial-header'>Quizzical</h2>
+        <p className='initial-description'>Some sort of description</p>
+        <button className ='quizzical-button'>Start Quiz</button>
+      </section>
+      <div className="top-circle-container">
+        <div className='top-circle' />
+      </div>
+      <div className="bottom-circle-container">
+        <div className='bottom-circle' />
+      </div>
+    </div>
   )
 }
 
