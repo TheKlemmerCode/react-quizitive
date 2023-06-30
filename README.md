@@ -1,6 +1,6 @@
-# React Quizzical Application
+# React Quizitive Application
 
-Scrimba React Course - Quizzical App
+Scrimba React Course - Quizitive App
 
 ## Description
 
@@ -20,7 +20,18 @@ Install the dependencies:
 Run the app:  
   * ```$ npm run dev```  
 
+## Future Enhancements  
+
+* Randomize Answers  
+* Add Score Print Out on Page  
+* Confetti for 5 out of 5  
+* Use a library to decode html entities (he or html-enteties)
+* Loading Animation  
+* Refactor Variable Names
+* Refactor Complicated Functions  
+* Refactor State Machine / Page Handling
 
 ## Resources  
 
-[SVG Creation](https://www.svgrepo.com/svg/509677/question1)
+[SVG Creation](https://www.svgrepo.com/svg/509677/question1)  
+[Randomization](https://dev.to/codebubb/how-to-shuffle-an-array-in-javascript-2ikj)  

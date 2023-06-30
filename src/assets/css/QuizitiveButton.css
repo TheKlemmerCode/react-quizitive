@@ -1,0 +1,14 @@
+.quizitive-button {
+    color:#F5F7FB;
+    height: 55px;
+    min-width: 190px;
+    border: none;
+    border-radius: 15px;
+    background-color:#4D5B9E;
+    font-size: 1.6rem;
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    /*
+    box-shadow: 7px 6px 28px 1px rgba(0, 0, 0, 0.24);
+    */
+}
